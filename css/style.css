@@ -1,0 +1,40 @@
+.div1 h1{
+    width: 300px;
+    text-align: center;
+    background-color: rgb(201, 200, 200);
+}
+
+.div1 {
+    width: 300px;
+    height: 1000px;
+    border: 2px dashed;
+    float: right;
+}
+.div1 table tr th{
+    background-color: rgb(201, 200, 200);
+}
+.div1 table tr td{
+    background-color: rgb(201, 200, 200);
+}
+
+.div1 img{
+    width: 300px;
+}
+
+#div2 h1{
+    font-size: 40px;
+    text-align: center;
+}
+#div2 p{
+    font-size: 20px;
+}
+  
+.div3 img{
+    width: 400px;
+    height: 300px;
+}
+.div5{
+    font-size: 40px;
+    background-color: grey;
+    
+}
